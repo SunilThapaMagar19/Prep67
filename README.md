@@ -2,6 +2,16 @@
 
 A browser-based mock interview coach that provides instant feedback on your delivery, body language, and answer structure using AI-powered analysis.
 
+## Hackathon Team Project
+
+This project was built collaboratively during a hackathon using a shared development environment and GitHub account.
+
+My role focused on backend development, including:
+- Designing and implementing server-side logic using Node.js and Express
+- Developing API endpoints for transcription, scoring, and session analysis
+- Integrating backend services with the React frontend
+- Debugging, testing, and improving API reliability and performance
+
 ## 🎯 Features
 
 - **Real-time Video Analysis**: Uses MediaPipe Face Mesh to track head movement and attention
